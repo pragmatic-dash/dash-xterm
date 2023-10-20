@@ -1,0 +1,11 @@
+include dash_xterm/dash_xterm.min.js
+include dash_xterm/dash_xterm.min.js.map
+include dash_xterm/async-*.js
+include dash_xterm/async-*.js.map
+include dash_xterm/*-shared.js
+include dash_xterm/*-shared.js.map
+include dash_xterm/metadata.json
+include dash_xterm/package-info.json
+include README.md
+include LICENSE
+include package.json
